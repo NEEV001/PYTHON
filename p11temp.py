@@ -1,0 +1,6 @@
+d1=int(input("Enter temp of day1=>"))
+d2=int(input("Enter temp of day2=>"))
+d3=int(input("Enter temp of day3=>"))
+d4=int(input("Enter temp of day4=>"))
+d5=int(input("Enter temp of day5=>"))
+print("Avg Temp=",(d1+d2+d3+d4+d5)/5)
