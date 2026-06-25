@@ -1,0 +1,10 @@
+set1={11,55,20,34,29}
+set2={22,20,29,34,51,66,28}
+set3={11,55}
+set4={1,2,3,4,5}
+print(set1.intersection(set2))
+print(set1.intersection(set3))
+print(set1.intersection(set4))
+print(set2.intersection(set3))
+print(set2.intersection(set4))
+print(set3.intersection(set4))

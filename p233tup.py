@@ -1,0 +1,5 @@
+t1=(11,22,98,67,55,45)
+list1=list(t1)
+list1.sort()
+t1=tuple(list1)
+print(t1)
