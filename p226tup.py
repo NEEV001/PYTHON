@@ -1,0 +1,6 @@
+t1=(11,22,33,45,67,89,99)
+value=int(input("enter value which you want to remove:"))
+list1=list(t1)
+list1.remove(value)
+t1=tuple(list1)
+print(t1)

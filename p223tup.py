@@ -1,0 +1,5 @@
+t1=(11,22,34,45,67,87,89,34)
+list1=list(t1)
+list1.reverse()
+t1=tuple(list1)
+print(t1)
